@@ -1,0 +1,15 @@
+# 비밀키 — 절대 커밋 금지
+.env
+.streamlit/secrets.toml
+
+# 캐시/생성물
+.cache_corp_codes.parquet
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.claude/
